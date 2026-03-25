@@ -116,10 +116,10 @@ POST /generate-narrative
 
 ## 💡
 
-- **Real GenAI integration** — not a basic chatbot, but a structured data → LLM pipeline
+- **Real GenAI integration** — A structured data → LLM pipeline
 - **Prompt engineering** — system prompt crafted for consistent executive tone
 - **Anomaly detection** — statistical analysis feeds context to the LLM
-- **Production API** — FastAPI wrapper makes this deployable as a service
-- **Business context** — directly mirrors what was built at American Choice Healthcare
+- **Production API** — FastAPI wrapper, deployable as a service
+
 
 
