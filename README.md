@@ -114,7 +114,7 @@ POST /generate-narrative
 
 ---
 
-## 💡 What Recruiters Should Notice
+## 💡
 
 - **Real GenAI integration** — not a basic chatbot, but a structured data → LLM pipeline
 - **Prompt engineering** — system prompt crafted for consistent executive tone
@@ -122,8 +122,4 @@ POST /generate-narrative
 - **Production API** — FastAPI wrapper makes this deployable as a service
 - **Business context** — directly mirrors what was built at American Choice Healthcare
 
----
 
-## 📄 License
-
-MIT
